@@ -13,7 +13,7 @@ I'm a passionate Software Engineer. You can say "hi" me here
 
 #### Publications
 
-**Spotify player web extension** https://spotify-extension.netlify.app/
+**Spotify player web extension** https://www.spotit.page
 
 [![Chrome Extension Users](https://img.shields.io/chrome-web-store/users/bhdjjppbnlpjpeicimhemencfgjeldoa?color=0099ff&label=chrome%20users&logo=google-chrome&logoColor=d2ccd2)](https://chrome.google.com/webstore/detail/spotify-player/bhdjjppbnlpjpeicimhemencfgjeldoa) [![Chrome Extension Version](https://img.shields.io/chrome-web-store/v/bhdjjppbnlpjpeicimhemencfgjeldoa?color=0099ff&logo=google-chrome&logoColor=d2ccd2)](https://chrome.google.com/webstore/detail/spotify-player/bhdjjppbnlpjpeicimhemencfgjeldoa) [![Chrome Extension Rating](https://img.shields.io/chrome-web-store/rating/bhdjjppbnlpjpeicimhemencfgjeldoa?color=0099ff&logo=google-chrome&logoColor=d2ccd2)](https://chrome.google.com/webstore/detail/spotify-player/bhdjjppbnlpjpeicimhemencfgjeldoa)
 
