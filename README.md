@@ -4,6 +4,7 @@ I'm a passionate Software Engineer. You can say "hi" me here
 
 - [linkedin](https://www.linkedin.com/in/dzungnguyen179/)
 - [github](https://github.com/davidnguyen179)
+- [twitter](https://twitter.com/davidnguyen1791)
 
 #### Blog
 
